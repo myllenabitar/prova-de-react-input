@@ -1,4 +1,5 @@
 <h1 align="center">Desafio input-REACT </h1>
+<img src="https://github.com/user-attachments/assets/4e0df084-b2e2-4c53-86f8-449bda6813f0" alt="inputs">
 
 
 
@@ -7,7 +8,7 @@
 Ultima versão: Julho 2024
 
 <h2>Descrição de Projeto</h2>
- Projeto de um input feito com react
+Projeto de várias paginas de perguntas e respostas, com respostas certas e erradas, e no final há pontuação marcada pelos acertos.
 
 <h2>Status do Projeto</h2>'
 <h4 align="center">
