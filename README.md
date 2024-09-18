@@ -10,11 +10,16 @@ Ultima versão: Julho 2024
 <h2>Descrição de Projeto</h2>
 Projeto de várias paginas de perguntas e respostas, com respostas certas e erradas, e no final há pontuação marcada pelos acertos.
 
+
 <h2>Status do Projeto</h2>'
 <h4 align="center">
 :star: Projeto Concluído! :star:
 </h4>
 <h2>:hammer:Funcionalidades e Demonstração da Aplicação</h2>
+Um simples input mas que no final, mostra a pontuação final pelos acertos:
+<img src="https://github.com/user-attachments/assets/7a816358-97ea-43bd-820b-d711b74cdb44" alt="inputs-acertos">
+
+
 <h2>Acesso ao projeto</h2>
 <h2> Tecnologias Utilizadas</h2>
 
